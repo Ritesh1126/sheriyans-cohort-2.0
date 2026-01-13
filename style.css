@@ -1,5 +1,23 @@
-h1{
-    color: beige;
-    background-color: brown;
-    content: center;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.golu{
+    color: white;
+    background: rgb(30, 18, 81);
+    text-align: center;
+    padding: 60px, 20px;
+}
+
+.golu h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.golu p1{
+    font-size: 20px;
+    margin-bottom: 0.8px;
 }
